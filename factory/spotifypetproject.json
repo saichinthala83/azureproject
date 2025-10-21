@@ -1,0 +1,9 @@
+{
+	"name": "spotifypetproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23bcd347-2557-45eb-a7da-e34891f1490d",
+		"tenantId": "ba5849ea-8b9e-4ae4-ade0-f77d29106dec"
+	}
+}
